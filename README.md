@@ -25,8 +25,7 @@ Full-stack and Mobile app Developer.<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=joshuainfluence&icon=2&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/joshuaonyeuku) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/joshuaonyeuku) 
+ 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
